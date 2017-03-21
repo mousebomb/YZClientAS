@@ -1,0 +1,95 @@
+﻿<?xml version='1.0' ?>
+<setting>
+	<!-- 开发服 -->
+	 <LogicServer>172.16.128.149</LogicServer>
+	<LogicPort>9012</LogicPort>
+	<UserName>1_123456</UserName>
+
+
+	<!--宁海-->
+	<!--<LogicServer>172.16.0.192</LogicServer>-->
+	<!--<LogicPort>4000</LogicPort>-->
+
+	<!--开发 s302 -->
+	<!--<LogicServer>172.16.128.149</LogicServer>-->
+	<!--<LogicPort>9014</LogicPort>-->
+	<!--<UserName>lxy</UserName>-->
+
+	 <!--<LogicServer>172.16.131.42</LogicServer>-->
+ 	<!--<LogicPort>9010</LogicPort>-->
+ 	<!--<UserName>186658993473</UserName>-->
+
+	<!-- 坚定 -->
+	<!--<LogicServer>172.16.131.46</LogicServer>-->
+	<!--<LogicPort>9010</LogicPort>-->
+	<!--<UserName>186658993472</UserName>-->
+ 		<!-- qq服 -->
+ 	 <!--<LogicServer>119.29.218.143</LogicServer>-->
+  	<!--<LogicPort>9121</LogicPort>-->
+  	<!--<UserName>201_DADD9A8BFA30F526FAC972955F92B027</UserName>-->
+
+	<!-- 外网内部测试服 -->
+	<!--<LogicServer>119.29.237.217</LogicServer>-->
+	<!--<LogicPort>9011</LogicPort>-->
+	<!--<UserName>201_7E4CE815E5F5A53F1BFA527E16A1E4BD</UserName>-->
+	<!-- 外网-->
+<!-- 	 <LogicServer>42.51.161.211</LogicServer> -->
+<!--  	<LogicPort>8001</LogicPort> -->
+<!--  	<UserName>2_zb01</UserName> -->
+ 		    
+ 	<!-- 外网测试服 -->
+<!-- 	 <LogicServer>42.51.161.211</LogicServer> -->
+<!--  	<LogicPort>8001</LogicPort> -->
+<!--  	<UserName>1_zl112</UserName> -->
+	<!-- 杨凯 -->
+ 	<!--<LogicServer>172.16.131.35</LogicServer>-->
+ 	<!--<LogicPort>9010</LogicPort>-->
+ 	<!--<UserName>1_y6</UserName>-->
+
+	 <!-- 宋伟服务器  -->
+ 	<!--<LogicServer>172.16.131.30</LogicServer>-->
+ 	<!--<LogicPort>9010</LogicPort>-->
+ 	<!--<UserName>sw4</UserName>-->
+ 	<!--<UserName>sw4</UserName>-->
+	 <!-- 宁海服务器-->
+ 	<!--<LogicServer>172.16.131.69</LogicServer>-->
+ 	<!--<LogicPort>9010</LogicPort>-->
+ 	<!--<UserName>1_n101</UserName>-->
+	
+	 <!-- 黄栋服务器-->
+<!-- 	<LogicServer>172.16.131.62</LogicServer> -->
+<!-- 	<LogicPort>9010</LogicPort> -->
+<!-- 	<UserName>1_h15</UserName> -->
+	
+	 <!-- 自己服务器 -->
+<!-- 	<LogicServer>172.16.131.63</LogicServer> -->
+<!-- 	<LogicPort>9010</LogicPort> -->
+<!-- 	<UserName>1_zb1238</UserName> -->
+	
+	 <!-- 徐峰服务器 
+	<LogicServer>172.16.131.3</LogicServer>
+	<LogicPort>9010</LogicPort>
+	<UserName>1_xf001sy001</UserName> -->
+<!-- 	<LogicServer>42.51.161.211</LogicServer> -->
+<!--  	<LogicPort>8001</LogicPort> -->
+<!--  	<UserName>1_lsh0011</UserName> -->
+	<!--  外网服务器  -->
+<!-- 	<LogicServer>125.88.151.67</LogicServer> -->
+<!-- 	<LogicPort>9011</LogicPort> -->
+<!-- 	<UserName>1_lsh0011</UserName> -->
+<!--	<body oncontextmenu="window.event.returnvalue=false">-->
+	<PassWord>tt</PassWord>
+<!-- 	<Payurl>充值地地址</Payurl> -->
+		<Payurl>http://sgame.q1.com/webgame/action.php?action=pay</Payurl>
+<!-- 	<AirClient>微端下载</AirClient> -->
+        <AirClient>http://res.soul.g.yx-g.cn/%E6%9D%80%E6%88%AE%E4%B9%8B%E7%8E%8BV1.0.1.exe</AirClient>
+<!-- 	<cdcard>实名认证</cdcard> -->
+        <cdcard>http://u.youxi.com/account/safe</cdcard>
+<!-- 	<AirClienturl>微端资源地地址</AirClienturl> -->
+        <AirClienturl>http://res.soul.g.yx-g.cn/</AirClienturl>
+<!--         <AddQQurl>加入qq群</AddQQurl> -->
+        <AddQQurl>http://shang.qq.com/wpa/qunwpa?idkey=cbe6eaf185783a5d961f9fcf0c42aa750d6dd44ca9a275ff7c0f59b88b08afe8</AddQQurl>
+	<gameServer>q1.com</gameServer>
+
+	<mainclient>20150306124552</mainclient>
+</setting>

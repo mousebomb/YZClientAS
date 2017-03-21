@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:bdc4df8e5aff7685ff89312b491487df$ -->
+<TextureAtlas imagePath="source_toolBar_17_1.png">
+    <SubTexture name="bg_dow_left" x="367" y="507" width="302" height="31"/>
+    <SubTexture name="bg_down" x="862" y="435" width="1174" height="114"/>
+    <SubTexture name="bg_left" x="410" y="2" width="130" height="435"/>
+    <SubTexture name="bg_left_down" x="1366" y="694" width="500" height="252"/>
+    <SubTexture name="bg_left_top" x="542" y="2" width="446" height="431"/>
+    <SubTexture name="bg_right" x="278" y="2" width="130" height="435"/>
+    <SubTexture name="bg_right_down" x="1820" y="2" width="180" height="132"/>
+    <SubTexture name="bg_right_top" x="2" y="549" width="392" height="441"/>
+    <SubTexture name="bg_top" x="862" y="551" width="1154" height="141"/>
+    <SubTexture name="bg_top_left" x="433" y="439" width="302" height="31"/>
+    <SubTexture name="btn_blue_down" x="367" y="473" width="87" height="32"/>
+    <SubTexture name="btn_blue_over" x="344" y="439" width="87" height="32"/>
+    <SubTexture name="btn_blue_up" x="278" y="505" width="87" height="32"/>
+    <SubTexture name="check_0" x="64" y="992" width="18" height="18"/>
+    <SubTexture name="check_1" x="44" y="992" width="18" height="18"/>
+    <SubTexture name="check_2" x="24" y="992" width="18" height="18"/>
+    <SubTexture name="help_up" x="2" y="992" width="20" height="20"/>
+    <SubTexture name="icon_prompt_bg" x="1456" y="2" width="362" height="240"/>
+    <SubTexture name="myfont_0" x="862" y="694" width="502" height="324" frameX="-4" frameY="-4" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="role_1" x="1223" y="2" width="231" height="376"/>
+    <SubTexture name="role_2" x="990" y="2" width="231" height="376"/>
+    <SubTexture name="role_3" x="629" y="540" width="231" height="376"/>
+    <SubTexture name="role_4" x="396" y="540" width="231" height="376"/>
+    <SubTexture name="role_bg" x="2" y="2" width="274" height="545"/>
+    <SubTexture name="tips" x="278" y="439" width="64" height="64"/>
+</TextureAtlas>

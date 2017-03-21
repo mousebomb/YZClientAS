@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c56a2ff38f35823a8b397f6d27ec309a:65080de58659e9a6a35750dc3604c8f9:590f1913349ca0a9a3605a294d70ca96$ -->
+<TextureAtlas imagePath="Resource.png" width="240" height="449">
+    <SubTexture name="bg" x="1" y="253" width="100" height="79"/>
+    <SubTexture name="blank" x="137" y="433" width="10" height="10"/>
+    <SubTexture name="btn_close_1" x="123" y="346" rotated="true" width="20" height="28"/>
+    <SubTexture name="btn_close_2" x="202" y="334" width="28" height="20"/>
+    <SubTexture name="btn_close_3" x="123" y="346" rotated="true" width="20" height="28"/>
+    <SubTexture name="button$down" x="181" y="1" width="58" height="53" frameX="0" frameY="-5" frameWidth="58" frameHeight="58"/>
+    <SubTexture name="button$over" x="181" y="56" width="58" height="53" frameX="0" frameY="-5" frameWidth="58" frameHeight="58"/>
+    <SubTexture name="button" x="181" y="111" width="58" height="53" frameX="0" frameY="-5" frameWidth="58" frameHeight="58"/>
+    <SubTexture name="button_1" x="181" y="166" rotated="true" width="23" height="75"/>
+    <SubTexture name="button_2" x="206" y="166" rotated="true" width="23" height="75"/>
+    <SubTexture name="button_3" x="156" y="242" rotated="true" width="23" height="75"/>
+    <SubTexture name="checkbox_1" x="225" y="356" width="14" height="14"/>
+    <SubTexture name="checkbox_2" x="225" y="372" width="14" height="14"/>
+    <SubTexture name="checkbox_3" x="225" y="388" width="14" height="14"/>
+    <SubTexture name="clip_num" x="153" y="1" rotated="true" width="26" height="239" frameX="-1" frameY="-1" frameWidth="240" frameHeight="27"/>
+    <SubTexture name="clip_selectBox" x="1" y="334" width="100" height="40"/>
+    <SubTexture name="combobox_1" x="1" y="376" width="91" height="23"/>
+    <SubTexture name="combobox_2" x="123" y="253" rotated="true" width="23" height="91"/>
+    <SubTexture name="combobox_3" x="123" y="253" rotated="true" width="23" height="91"/>
+    <SubTexture name="hscroll$bar_1" x="218" y="315" width="21" height="17"/>
+    <SubTexture name="hscroll$bar_2" x="202" y="356" width="21" height="17"/>
+    <SubTexture name="hscroll$bar_3" x="202" y="375" width="21" height="17"/>
+    <SubTexture name="hscroll$down_1" x="113" y="376" width="17" height="17"/>
+    <SubTexture name="hscroll$down_2" x="113" y="395" width="17" height="17"/>
+    <SubTexture name="hscroll$down_3" x="132" y="376" width="17" height="17"/>
+    <SubTexture name="hscroll$up_1" x="132" y="395" width="17" height="17"/>
+    <SubTexture name="hscroll$up_2" x="151" y="391" width="17" height="17"/>
+    <SubTexture name="hscroll$up_3" x="113" y="414" width="17" height="17"/>
+    <SubTexture name="hscroll" x="183" y="315" width="33" height="17"/>
+    <SubTexture name="hslider$bar_1" x="208" y="394" width="14" height="14"/>
+    <SubTexture name="hslider$bar_2" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="hslider$bar_3" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="hslider" x="1" y="426" width="100" height="6"/>
+    <SubTexture name="image" x="1" y="1" width="150" height="250"/>
+    <SubTexture name="images/btn_close_1" x="123" y="346" rotated="true" width="20" height="28"/>
+    <SubTexture name="images/btn_close_2" x="202" y="334" width="28" height="20"/>
+    <SubTexture name="images/btn_close_3" x="123" y="346" rotated="true" width="20" height="28"/>
+    <SubTexture name="images/button_1" x="181" y="166" rotated="true" width="23" height="75"/>
+    <SubTexture name="images/button_2" x="206" y="166" rotated="true" width="23" height="75"/>
+    <SubTexture name="images/button_3" x="156" y="242" rotated="true" width="23" height="75"/>
+    <SubTexture name="images/checkbox_1" x="225" y="356" width="14" height="14"/>
+    <SubTexture name="images/checkbox_2" x="225" y="372" width="14" height="14"/>
+    <SubTexture name="images/checkbox_3" x="225" y="388" width="14" height="14"/>
+    <SubTexture name="images/combobox_1" x="1" y="376" width="91" height="23"/>
+    <SubTexture name="images/combobox_2" x="123" y="253" rotated="true" width="23" height="91"/>
+    <SubTexture name="images/combobox_3" x="123" y="253" rotated="true" width="23" height="91"/>
+    <SubTexture name="images/hscroll$bar_1" x="218" y="315" width="21" height="17"/>
+    <SubTexture name="images/hscroll$bar_2" x="202" y="356" width="21" height="17"/>
+    <SubTexture name="images/hscroll$bar_3" x="202" y="375" width="21" height="17"/>
+    <SubTexture name="images/hscroll$down_1" x="113" y="376" width="17" height="17"/>
+    <SubTexture name="images/hscroll$down_2" x="113" y="395" width="17" height="17"/>
+    <SubTexture name="images/hscroll$down_3" x="132" y="376" width="17" height="17"/>
+    <SubTexture name="images/hscroll$up_1" x="132" y="395" width="17" height="17"/>
+    <SubTexture name="images/hscroll$up_2" x="151" y="391" width="17" height="17"/>
+    <SubTexture name="images/hscroll$up_3" x="113" y="414" width="17" height="17"/>
+    <SubTexture name="images/hslider$bar_1" x="208" y="394" width="14" height="14"/>
+    <SubTexture name="images/hslider$bar_2" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="images/hslider$bar_3" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="images/radio_1" x="224" y="404" width="14" height="14"/>
+    <SubTexture name="images/radio_2" x="105" y="433" width="14" height="14"/>
+    <SubTexture name="images/radio_3" x="121" y="433" width="14" height="14"/>
+    <SubTexture name="images/radiogroup_1" x="224" y="404" width="14" height="14"/>
+    <SubTexture name="images/radiogroup_2" x="105" y="433" width="14" height="14"/>
+    <SubTexture name="images/radiogroup_3" x="121" y="433" width="14" height="14"/>
+    <SubTexture name="images/tab_1" x="209" y="243" rotated="true" width="25" height="70" frameX="0" frameY="-1" frameWidth="70" frameHeight="26"/>
+    <SubTexture name="images/tab_2" x="156" y="319" rotated="true" width="25" height="70" frameX="0" frameY="-1" frameWidth="70" frameHeight="26"/>
+    <SubTexture name="images/tab_3" x="181" y="243" rotated="true" width="26" height="70"/>
+    <SubTexture name="images/vscroll$bar_1" x="183" y="369" width="17" height="21"/>
+    <SubTexture name="images/vscroll$bar_2" x="94" y="376" width="17" height="21"/>
+    <SubTexture name="images/vscroll$bar_3" x="94" y="399" width="17" height="21"/>
+    <SubTexture name="images/vscroll$down_1" x="132" y="414" width="17" height="17"/>
+    <SubTexture name="images/vscroll$down_2" x="151" y="410" width="17" height="17"/>
+    <SubTexture name="images/vscroll$down_3" x="170" y="392" width="17" height="17"/>
+    <SubTexture name="images/vscroll$up_1" x="170" y="411" width="17" height="17"/>
+    <SubTexture name="images/vscroll$up_2" x="189" y="394" width="17" height="17"/>
+    <SubTexture name="images/vscroll$up_3" x="189" y="413" width="17" height="17"/>
+    <SubTexture name="images/vslider$bar_1" x="208" y="394" width="14" height="14"/>
+    <SubTexture name="images/vslider$bar_2" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="images/vslider$bar_3" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="label" x="103" y="253" rotated="true" width="18" height="120"/>
+    <SubTexture name="linkbutton" x="103" y="253" rotated="true" width="18" height="120"/>
+    <SubTexture name="progress$bar" x="1" y="434" width="50" height="14"/>
+    <SubTexture name="progress" x="53" y="434" width="50" height="14"/>
+    <SubTexture name="radio_1" x="224" y="404" width="14" height="14"/>
+    <SubTexture name="radio_2" x="105" y="433" width="14" height="14"/>
+    <SubTexture name="radio_3" x="121" y="433" width="14" height="14"/>
+    <SubTexture name="radiogroup_1" x="224" y="404" width="14" height="14"/>
+    <SubTexture name="radiogroup_2" x="105" y="433" width="14" height="14"/>
+    <SubTexture name="radiogroup_3" x="121" y="433" width="14" height="14"/>
+    <SubTexture name="tab_1" x="209" y="243" rotated="true" width="25" height="70" frameX="0" frameY="-1" frameWidth="70" frameHeight="26"/>
+    <SubTexture name="tab_2" x="156" y="319" rotated="true" width="25" height="70" frameX="0" frameY="-1" frameWidth="70" frameHeight="26"/>
+    <SubTexture name="tab_3" x="181" y="243" rotated="true" width="26" height="70"/>
+    <SubTexture name="textarea" x="1" y="401" width="91" height="23"/>
+    <SubTexture name="textinput" x="1" y="401" width="91" height="23"/>
+    <SubTexture name="vscroll$bar_1" x="183" y="369" width="17" height="21"/>
+    <SubTexture name="vscroll$bar_2" x="94" y="376" width="17" height="21"/>
+    <SubTexture name="vscroll$bar_3" x="94" y="399" width="17" height="21"/>
+    <SubTexture name="vscroll$down_1" x="132" y="414" width="17" height="17"/>
+    <SubTexture name="vscroll$down_2" x="151" y="410" width="17" height="17"/>
+    <SubTexture name="vscroll$down_3" x="170" y="392" width="17" height="17"/>
+    <SubTexture name="vscroll$up_1" x="170" y="411" width="17" height="17"/>
+    <SubTexture name="vscroll$up_2" x="189" y="394" width="17" height="17"/>
+    <SubTexture name="vscroll$up_3" x="189" y="413" width="17" height="17"/>
+    <SubTexture name="vscroll" x="183" y="334" width="17" height="33"/>
+    <SubTexture name="vslider$bar_1" x="208" y="394" width="14" height="14"/>
+    <SubTexture name="vslider$bar_2" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="vslider$bar_3" x="208" y="410" width="14" height="14"/>
+    <SubTexture name="vslider" x="148" y="253" width="6" height="100"/>
+</TextureAtlas>

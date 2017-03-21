@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:75e702716df389096d0762033984ec7d$ -->
+<TextureAtlas imagePath="source_mainFace_1.png">
+    <SubTexture name="title_text/title_roleinfo" x="2" y="2" width="85" height="26"/>
+</TextureAtlas>

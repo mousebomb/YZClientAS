@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0c9130dfebb4ff096c8b3d2ad717f2ba$ -->
+<TextureAtlas imagePath="source_mainFace_3.png">
+    <SubTexture name="NPCshop/bg_down" x="434" y="222" width="124" height="108" frameX="-1" frameY="0" frameWidth="126" frameHeight="110"/>
+    <SubTexture name="NPCshop/bg_over" x="432" y="854" width="126" height="110"/>
+    <SubTexture name="NPCshop/bg_up" x="304" y="854" width="126" height="110"/>
+    <SubTexture name="airClient/airClient_btn_2_down" x="486" y="488" width="54" height="54"/>
+    <SubTexture name="airClient/airClient_btn_2_over" x="604" y="441" width="54" height="54"/>
+    <SubTexture name="airClient/airClient_btn_2_up" x="914" y="491" width="54" height="54"/>
+    <SubTexture name="camp/AttributeImg0" x="698" y="535" width="40" height="40" frameX="-4" frameY="-3" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg1" x="560" y="486" width="42" height="44" frameX="-3" frameY="-2" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg10" x="977" y="312" width="44" height="46" frameX="-2" frameY="0" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg11" x="604" y="497" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg12" x="660" y="469" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg13" x="716" y="441" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg2" x="974" y="456" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg3" x="974" y="408" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg4" x="974" y="360" width="46" height="46"/>
+    <SubTexture name="camp/AttributeImg5" x="708" y="489" width="46" height="44" frameX="0" frameY="-1" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg6" x="652" y="517" width="44" height="42" frameX="-1" frameY="-1" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg7" x="486" y="590" width="46" height="44" frameX="0" frameY="-1" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg8" x="560" y="438" width="42" height="46" frameX="-3" frameY="0" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/AttributeImg9" x="486" y="544" width="46" height="44" frameX="0" frameY="-1" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="camp/beGet" x="936" y="30" width="72" height="58"/>
+    <SubTexture name="camp/bekillTask" x="820" y="90" width="108" height="104"/>
+    <SubTexture name="camp/camp1" x="234" y="444" width="230" height="408"/>
+    <SubTexture name="camp/camp2" x="2" y="444" width="230" height="408"/>
+    <SubTexture name="camp/campName1" x="116" y="966" width="110" height="54"/>
+    <SubTexture name="camp/campName2" x="2" y="966" width="112" height="54"/>
+    <SubTexture name="camp/chest0" x="292" y="966" width="62" height="54"/>
+    <SubTexture name="camp/chest1" x="228" y="966" width="62" height="54"/>
+    <SubTexture name="camp/chest2" x="466" y="78" width="60" height="54" frameX="-1" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/chest3" x="466" y="22" width="60" height="54" frameX="-2" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/chest4" x="542" y="966" width="60" height="54" frameX="-2" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/chest5" x="480" y="966" width="60" height="54" frameX="-2" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/chest6" x="418" y="966" width="60" height="54" frameX="-2" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/chest7" x="356" y="966" width="60" height="54" frameX="-2" frameY="0" frameWidth="62" frameHeight="54"/>
+    <SubTexture name="camp/iChoseI" x="294" y="44" width="138" height="190"/>
+    <SubTexture name="camp/master0" x="528" y="84" width="28" height="28"/>
+    <SubTexture name="camp/master1" x="528" y="114" width="26" height="28" frameX="-1" frameY="0" frameWidth="28" frameHeight="28"/>
+    <SubTexture name="camp/offLine" x="828" y="550" width="20" height="20"/>
+    <SubTexture name="camp/rankTitle" x="936" y="2" width="86" height="26"/>
+    <SubTexture name="camp/renqi_down" x="604" y="90" width="214" height="36"/>
+    <SubTexture name="camp/renqi_full" x="434" y="408" width="105" height="12"/>
+    <SubTexture name="camp/renqi_up" x="380" y="426" width="105" height="12"/>
+    <SubTexture name="camp/selectItem" x="930" y="164" width="58" height="58"/>
+    <SubTexture name="camp/tips" x="466" y="2" width="66" height="18"/>
+    <SubTexture name="camp/wantedItemBg" x="294" y="236" width="138" height="188" frameX="0" frameY="-2" frameWidth="138" frameHeight="190"/>
+    <SubTexture name="effectNum/campBattelStart" x="604" y="2" width="330" height="86"/>
+    <SubTexture name="effectNum/campBattle_0" x="466" y="134" width="58" height="74" frameX="-3" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_1" x="781" y="128" width="36" height="72" frameX="-15" frameY="-6" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_2" x="970" y="504" width="52" height="74" frameX="-7" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_3" x="858" y="470" width="54" height="74" frameX="-5" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_4" x="930" y="90" width="58" height="72" frameX="-3" frameY="-6" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_5" x="550" y="362" width="52" height="74" frameX="-6" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_6" x="492" y="332" width="56" height="74" frameX="-4" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_7" x="878" y="196" width="48" height="74" frameX="-9" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_8" x="434" y="332" width="56" height="74" frameX="-4" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/campBattle_9" x="526" y="144" width="56" height="74" frameX="-4" frameY="-5" frameWidth="66" frameHeight="86"/>
+    <SubTexture name="effectNum/evenKill_0" x="560" y="302" width="42" height="58" frameX="0" frameY="-2" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_1" x="528" y="24" width="30" height="58" frameX="-6" frameY="-2" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_2" x="786" y="506" width="40" height="60" frameX="-1" frameY="0" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_3" x="560" y="242" width="42" height="58" frameX="0" frameY="-2" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_4" x="560" y="2" width="42" height="60"/>
+    <SubTexture name="effectNum/evenKill_5" x="486" y="636" width="40" height="60" frameX="-1" frameY="0" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_6" x="560" y="594" width="40" height="60" frameX="-1" frameY="0" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_7" x="604" y="545" width="40" height="60" frameX="0" frameY="0" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_8" x="560" y="532" width="40" height="60" frameX="0" frameY="0" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/evenKill_9" x="560" y="64" width="42" height="58" frameX="0" frameY="-2" frameWidth="42" frameHeight="60"/>
+    <SubTexture name="effectNum/hongxue_00000" x="800" y="440" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00001" x="720" y="375" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00002" x="662" y="375" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00003" x="604" y="375" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00004" x="916" y="425" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00005" x="858" y="404" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00006" x="800" y="374" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00007" x="720" y="309" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00008" x="662" y="309" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxue_00009" x="487" y="422" width="56" height="64"/>
+    <SubTexture name="effectNum/hongxueb_00000" x="722" y="220" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00001" x="663" y="220" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00002" x="604" y="220" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00003" x="803" y="219" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00004" x="722" y="197" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00005" x="663" y="197" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00006" x="604" y="197" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00007" x="722" y="174" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00008" x="663" y="174" width="57" height="21"/>
+    <SubTexture name="effectNum/hongxueb_00009" x="604" y="174" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxue_00000" x="604" y="309" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00001" x="916" y="359" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00002" x="858" y="338" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00003" x="800" y="308" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00004" x="720" y="243" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00005" x="662" y="243" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00006" x="604" y="243" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00007" x="919" y="293" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00008" x="861" y="272" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxue_00009" x="803" y="242" width="56" height="64"/>
+    <SubTexture name="effectNum/huangxueb_00000" x="722" y="151" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00001" x="663" y="151" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00002" x="604" y="151" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00003" x="928" y="270" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00004" x="928" y="247" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00005" x="928" y="224" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00006" x="819" y="196" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00007" x="722" y="128" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00008" x="663" y="128" width="57" height="21"/>
+    <SubTexture name="effectNum/huangxueb_00009" x="604" y="128" width="57" height="21"/>
+    <SubTexture name="effectNum/sroce+" x="316" y="426" width="18" height="16" frameX="0" frameY="-3" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce" x="660" y="441" width="54" height="26"/>
+    <SubTexture name="effectNum/sroce_0" x="720" y="728" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_1" x="1010" y="30" width="10" height="22" frameX="-3" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_2" x="702" y="709" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_3" x="684" y="709" width="16" height="22" frameX="0" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_4" x="990" y="90" width="18" height="22"/>
+    <SubTexture name="effectNum/sroce_5" x="744" y="708" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_6" x="952" y="547" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_7" x="542" y="536" width="16" height="22" frameX="0" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_8" x="542" y="512" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="effectNum/sroce_9" x="542" y="488" width="16" height="22" frameX="-1" frameY="0" frameWidth="18" frameHeight="22"/>
+    <SubTexture name="face/face_00_00" x="764" y="700" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_00_01" x="804" y="682" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_00_02" x="826" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_00_03" x="906" y="657" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_01_00" x="886" y="657" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_01_01" x="866" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_01_02" x="846" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_01_03" x="866" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_02_00" x="506" y="720" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_02_01" x="466" y="726" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_02_02" x="486" y="720" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_02_03" x="526" y="714" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_03_00" x="850" y="546" width="20" height="20"/>
+    <SubTexture name="face/face_03_01" x="668" y="561" width="20" height="20"/>
+    <SubTexture name="face/face_03_02" x="646" y="561" width="20" height="20"/>
+    <SubTexture name="face/face_03_03" x="668" y="561" width="20" height="20"/>
+    <SubTexture name="face/face_04_00" x="580" y="700" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_04_01" x="560" y="700" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_04_02" x="624" y="695" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_04_03" x="762" y="554" width="20" height="20"/>
+    <SubTexture name="face/face_05_00" x="604" y="695" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_05_01" x="664" y="693" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_05_02" x="644" y="693" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_05_03" x="664" y="693" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_06_00" x="704" y="687" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_06_01" x="684" y="687" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_06_02" x="744" y="686" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_06_03" x="724" y="686" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_07_00" x="784" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_07_01" x="764" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_07_02" x="806" y="660" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_07_03" x="764" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_08_00" x="740" y="554" width="20" height="20"/>
+    <SubTexture name="face/face_08_01" x="828" y="528" width="20" height="20"/>
+    <SubTexture name="face/face_08_02" x="828" y="506" width="20" height="20"/>
+    <SubTexture name="face/face_08_03" x="756" y="532" width="20" height="20"/>
+    <SubTexture name="face/face_09_00" x="826" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_09_01" x="930" y="637" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_09_02" x="910" y="635" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_09_03" x="826" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_10_00" x="890" y="635" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_10_01" x="756" y="510" width="20" height="20"/>
+    <SubTexture name="face/face_10_02" x="528" y="648" width="20" height="20"/>
+    <SubTexture name="face/face_10_03" x="534" y="626" width="20" height="20"/>
+    <SubTexture name="face/face_11_00" x="870" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_11_01" x="850" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_11_02" x="870" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_11_03" x="506" y="698" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_12_00" x="466" y="704" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_12_01" x="486" y="698" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_12_02" x="466" y="704" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_12_03" x="486" y="698" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_13_00" x="528" y="692" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_13_01" x="580" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_13_02" x="560" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_13_03" x="580" y="678" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_14_00" x="624" y="673" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_14_01" x="604" y="673" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_14_02" x="664" y="671" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_14_03" x="604" y="673" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_15_00" x="644" y="671" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_15_01" x="644" y="671" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_15_02" x="644" y="671" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_15_03" x="644" y="671" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_16_00" x="704" y="665" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_16_01" x="684" y="665" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_16_02" x="744" y="664" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_16_03" x="724" y="664" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_17_00" x="786" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_17_01" x="766" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_17_02" x="534" y="604" width="20" height="20"/>
+    <SubTexture name="face/face_17_03" x="766" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_18_00" x="806" y="638" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_18_01" x="830" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_18_02" x="806" y="638" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_18_03" x="830" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_19_00" x="1000" y="624" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_19_01" x="980" y="624" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_19_02" x="960" y="624" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_19_03" x="940" y="615" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_20_00" x="920" y="613" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_20_01" x="900" y="613" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_20_02" x="880" y="612" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_20_03" x="860" y="612" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_21_00" x="528" y="670" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_21_01" x="580" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_21_02" x="528" y="670" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_21_03" x="580" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_22_00" x="560" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_22_01" x="624" y="651" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_22_02" x="560" y="656" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_22_03" x="604" y="651" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_23_00" x="358" y="426" width="20" height="14" frameX="0" frameY="-6" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_23_01" x="664" y="649" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_23_02" x="662" y="715" width="16" height="20" frameX="-2" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_23_03" x="664" y="649" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_24_00" x="644" y="649" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_24_01" x="704" y="643" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_24_02" x="684" y="643" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_24_03" x="704" y="643" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_25_00" x="764" y="488" width="20" height="20"/>
+    <SubTexture name="face/face_25_01" x="764" y="466" width="20" height="20"/>
+    <SubTexture name="face/face_25_02" x="294" y="426" width="20" height="16" frameX="0" frameY="-4" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_25_03" x="456" y="210" width="20" height="8" frameX="0" frameY="-12" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_26_00" x="746" y="642" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_26_01" x="726" y="642" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_26_02" x="786" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_26_03" x="766" y="634" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_27_00" x="810" y="616" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_27_01" x="840" y="612" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_27_02" x="1004" y="602" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_27_03" x="984" y="602" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_28_00" x="964" y="602" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_28_01" x="764" y="444" width="20" height="20"/>
+    <SubTexture name="face/face_28_02" x="534" y="582" width="20" height="20"/>
+    <SubTexture name="face/face_28_03" x="764" y="444" width="20" height="20"/>
+    <SubTexture name="face/face_29_00" x="624" y="629" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_29_01" x="604" y="629" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_29_02" x="624" y="629" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_29_03" x="624" y="629" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_30_00" x="664" y="627" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_30_01" x="644" y="627" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_30_02" x="664" y="627" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_30_03" x="644" y="627" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_31_00" x="706" y="621" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_31_01" x="686" y="621" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_31_02" x="706" y="621" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_31_03" x="686" y="621" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_32_00" x="746" y="620" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_32_01" x="726" y="620" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_32_02" x="790" y="612" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_32_03" x="770" y="612" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_33_00" x="944" y="593" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_33_01" x="924" y="591" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_33_02" x="534" y="560" width="20" height="20"/>
+    <SubTexture name="face/face_33_03" x="924" y="591" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_34_00" x="904" y="591" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_34_01" x="884" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_34_02" x="864" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_34_03" x="884" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_35_00" x="820" y="594" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_35_01" x="844" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_35_02" x="990" y="580" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_35_03" x="970" y="580" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_36_00" x="778" y="422" width="20" height="20"/>
+    <SubTexture name="face/face_36_01" x="778" y="400" width="20" height="20"/>
+    <SubTexture name="face/face_36_02" x="778" y="378" width="20" height="20"/>
+    <SubTexture name="face/face_36_03" x="778" y="356" width="20" height="20"/>
+    <SubTexture name="face/face_37_00" x="778" y="334" width="20" height="20"/>
+    <SubTexture name="face/face_37_01" x="778" y="312" width="20" height="20"/>
+    <SubTexture name="face/face_37_02" x="578" y="124" width="20" height="18" frameX="0" frameY="-2" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_37_03" x="336" y="426" width="20" height="14" frameX="0" frameY="-6" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_38_00" x="778" y="290" width="20" height="20"/>
+    <SubTexture name="face/face_38_01" x="778" y="268" width="20" height="20"/>
+    <SubTexture name="face/face_38_02" x="778" y="290" width="20" height="20"/>
+    <SubTexture name="face/face_38_03" x="778" y="268" width="20" height="20"/>
+    <SubTexture name="face/face_39_00" x="624" y="607" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_39_01" x="778" y="246" width="20" height="20"/>
+    <SubTexture name="face/face_39_02" x="624" y="607" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_39_03" x="778" y="246" width="20" height="20"/>
+    <SubTexture name="face/face_40_00" x="604" y="607" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_40_01" x="666" y="605" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_40_02" x="604" y="607" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_40_03" x="666" y="605" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_41_00" x="781" y="224" width="20" height="20"/>
+    <SubTexture name="face/face_41_01" x="781" y="202" width="20" height="20"/>
+    <SubTexture name="face/face_41_02" x="781" y="224" width="20" height="20"/>
+    <SubTexture name="face/face_41_03" x="781" y="202" width="20" height="20"/>
+    <SubTexture name="face/face_42_00" x="646" y="605" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_42_01" x="706" y="599" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_42_02" x="646" y="605" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_42_03" x="686" y="599" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_43_00" x="750" y="598" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_43_01" x="730" y="598" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_43_02" x="800" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_43_03" x="560" y="220" width="20" height="20"/>
+    <SubTexture name="face/face_44_00" x="987" y="290" width="20" height="20"/>
+    <SubTexture name="face/face_44_01" x="987" y="268" width="20" height="20"/>
+    <SubTexture name="face/face_44_02" x="780" y="590" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_44_03" x="987" y="246" width="20" height="20"/>
+    <SubTexture name="face/face_45_00" x="987" y="224" width="20" height="20"/>
+    <SubTexture name="face/face_45_01" x="990" y="202" width="20" height="20"/>
+    <SubTexture name="face/face_45_02" x="987" y="224" width="20" height="20"/>
+    <SubTexture name="face/face_45_03" x="990" y="180" width="20" height="20"/>
+    <SubTexture name="face/face_46_00" x="990" y="158" width="20" height="20"/>
+    <SubTexture name="face/face_46_01" x="990" y="136" width="20" height="20"/>
+    <SubTexture name="face/face_46_02" x="990" y="114" width="20" height="20"/>
+    <SubTexture name="face/face_46_03" x="434" y="200" width="20" height="20"/>
+    <SubTexture name="face/face_47_00" x="950" y="571" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_47_01" x="930" y="569" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_47_02" x="910" y="569" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_47_03" x="910" y="569" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_48_00" x="434" y="178" width="20" height="20"/>
+    <SubTexture name="face/face_48_01" x="434" y="156" width="20" height="20"/>
+    <SubTexture name="face/face_48_02" x="434" y="134" width="20" height="20"/>
+    <SubTexture name="face/face_48_03" x="434" y="156" width="20" height="20"/>
+    <SubTexture name="face/face_49_00" x="890" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_49_01" x="890" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_49_02" x="890" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_49_03" x="890" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_50_00" x="1010" y="76" width="10" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_50_01" x="870" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_50_02" x="1010" y="54" width="10" height="20" frameX="-10" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_50_03" x="556" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_51_00" x="824" y="572" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_51_01" x="850" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_51_02" x="850" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_51_03" x="850" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_52_00" x="434" y="112" width="20" height="20"/>
+    <SubTexture name="face/face_52_01" x="434" y="90" width="20" height="20"/>
+    <SubTexture name="face/face_52_02" x="434" y="112" width="20" height="20"/>
+    <SubTexture name="face/face_52_03" x="434" y="90" width="20" height="20"/>
+    <SubTexture name="face/face_53_00" x="644" y="715" width="16" height="20" frameX="-2" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_53_01" x="932" y="547" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_53_02" x="644" y="715" width="16" height="20" frameX="-2" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_53_03" x="912" y="547" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_54_00" x="666" y="583" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_54_01" x="646" y="583" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_54_02" x="666" y="583" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_54_03" x="646" y="583" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_55_00" x="710" y="577" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_55_01" x="434" y="68" width="20" height="20"/>
+    <SubTexture name="face/face_55_02" x="690" y="577" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_55_03" x="434" y="46" width="20" height="20"/>
+    <SubTexture name="face/face_56_00" x="760" y="576" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_56_01" x="740" y="576" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_56_02" x="804" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_56_03" x="740" y="576" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_57_00" x="784" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_57_01" x="892" y="546" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_57_02" x="784" y="568" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_57_03" x="892" y="546" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_58_00" x="440" y="24" width="20" height="20"/>
+    <SubTexture name="face/face_58_01" x="440" y="2" width="20" height="20"/>
+    <SubTexture name="face/face_58_02" x="556" y="124" width="20" height="18" frameX="0" frameY="-2" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_58_03" x="534" y="2" width="20" height="20"/>
+    <SubTexture name="face/face_59_00" x="872" y="546" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_59_01" x="466" y="682" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_59_02" x="466" y="660" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_59_03" x="466" y="638" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_60_00" x="466" y="616" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_60_01" x="466" y="594" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_60_02" x="466" y="572" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_60_03" x="466" y="550" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_61_00" x="466" y="528" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_61_01" x="466" y="506" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_61_02" x="466" y="484" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_61_03" x="466" y="462" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_62_00" x="466" y="440" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_62_01" x="584" y="210" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_62_02" x="466" y="440" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_62_03" x="584" y="210" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_63_00" x="584" y="188" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_63_01" x="584" y="166" width="18" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_63_02" x="584" y="188" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_63_03" x="584" y="144" width="18" height="20" frameX="-1" frameY="0" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="face/face_64_00" x="724" y="708" width="18" height="18"/>
+    <SubTexture name="face/face_64_01" x="724" y="708" width="18" height="18"/>
+    <SubTexture name="face/face_65_00" x="784" y="700" width="18" height="18"/>
+    <SubTexture name="face/face_65_01" x="784" y="700" width="18" height="18"/>
+    <SubTexture name="tips_3d_bg" x="2" y="2" width="290" height="440" frameX="-5" frameY="0" frameWidth="300" frameHeight="440"/>
+    <SubTexture name="tips_3d_title" x="294" y="2" width="144" height="40"/>
+    <SubTexture name="tips_3d_txt" x="2" y="854" width="300" height="110" frameX="0" frameY="-6" frameWidth="300" frameHeight="116"/>
+</TextureAtlas>

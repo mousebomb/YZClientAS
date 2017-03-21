@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9cbaddfc13815a9e05fe87f3d2c1dd17$ -->
+<TextureAtlas imagePath="source_toolBar_17_2.png">
+    <SubTexture name="background3" x="874" y="949" width="64" height="64"/>
+    <SubTexture name="bg" x="2" y="2" width="1680" height="945"/>
+    <SubTexture name="bg_over" x="1684" y="895" width="50" height="50"/>
+    <SubTexture name="bg_right_1" x="1719" y="379" width="117" height="74"/>
+    <SubTexture name="bg_right_2" x="1849" y="373" width="117" height="74"/>
+    <SubTexture name="bg_select" x="1684" y="843" width="50" height="50"/>
+    <SubTexture name="bl_00001" x="2005" y="507" width="40" height="40"/>
+    <SubTexture name="bl_00002" x="2005" y="465" width="40" height="40"/>
+    <SubTexture name="bl_00003" x="2001" y="331" width="40" height="40"/>
+    <SubTexture name="bl_00004" x="2005" y="465" width="40" height="40"/>
+    <SubTexture name="bl_00005" x="2005" y="465" width="40" height="40"/>
+    <SubTexture name="bl_00006" x="2001" y="289" width="40" height="40"/>
+    <SubTexture name="btn_0" x="656" y="949" width="216" height="70"/>
+    <SubTexture name="btn_1" x="438" y="949" width="216" height="70"/>
+    <SubTexture name="btn_2" x="220" y="949" width="216" height="70"/>
+    <SubTexture name="btn_3" x="2" y="949" width="216" height="70"/>
+    <SubTexture name="cloud" x="1719" y="255" width="128" height="122" frameX="0" frameY="-6" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="effect" x="1719" y="2" width="290" height="82"/>
+    <SubTexture name="fr_00000" x="1667" y="949" width="50" height="50" frameX="-35" frameY="-29" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00001" x="1943" y="649" width="100" height="100" frameX="-10" frameY="-4" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00002" x="1831" y="667" width="110" height="104" frameX="0" frameY="-2" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00003" x="1831" y="559" width="110" height="106" frameX="0" frameY="-1" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00004" x="1838" y="449" width="110" height="108" frameX="0" frameY="0" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00005" x="1719" y="669" width="108" height="106" frameX="-2" frameY="-1" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00006" x="1719" y="563" width="110" height="104" frameX="0" frameY="-2" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="fr_00007" x="1719" y="455" width="110" height="106" frameX="0" frameY="-4" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="gb_00000" x="2001" y="245" width="42" height="42" frameX="-11" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00001" x="1998" y="779" width="46" height="46" frameX="-9" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00002" x="1615" y="949" width="50" height="50" frameX="-7" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00003" x="1242" y="949" width="54" height="54" frameX="-5" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00004" x="1000" y="949" width="56" height="56" frameX="-4" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00005" x="1186" y="949" width="54" height="54" frameX="-5" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00006" x="1298" y="949" width="52" height="52" frameX="-6" frameY="-7" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gb_00007" x="940" y="949" width="58" height="58" frameX="-3" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="gy_00001" x="1684" y="138" width="32" height="32"/>
+    <SubTexture name="gy_00002" x="1684" y="104" width="32" height="32"/>
+    <SubTexture name="gy_00003" x="2011" y="70" width="32" height="32"/>
+    <SubTexture name="gy_00004" x="2011" y="36" width="32" height="32"/>
+    <SubTexture name="gy_00005" x="2011" y="2" width="32" height="32"/>
+    <SubTexture name="gy_00006" x="1684" y="70" width="32" height="32"/>
+    <SubTexture name="gy_00007" x="1684" y="36" width="32" height="32"/>
+    <SubTexture name="gy_00008" x="1684" y="2" width="32" height="32"/>
+    <SubTexture name="heroCloud" x="1881" y="86" width="128" height="128"/>
+    <SubTexture name="input_bg" x="1352" y="949" width="261" height="50"/>
+    <SubTexture name="input_tip" x="1058" y="949" width="126" height="54"/>
+    <SubTexture name="random_0" x="2011" y="104" width="19" height="22" frameX="-1" frameY="-1" frameWidth="21" frameHeight="24"/>
+    <SubTexture name="random_1" x="1684" y="172" width="21" height="24"/>
+    <SubTexture name="random_2" x="1684" y="222" width="19" height="22" frameX="-1" frameY="-1" frameWidth="21" frameHeight="24"/>
+    <SubTexture name="random_3" x="1684" y="198" width="19" height="22" frameX="-1" frameY="-1" frameWidth="21" frameHeight="24"/>
+    <SubTexture name="role_1_over" x="1719" y="160" width="160" height="35"/>
+    <SubTexture name="role_1_up" x="1719" y="197" width="152" height="27" frameX="-3" frameY="-4" frameWidth="160" frameHeight="35"/>
+    <SubTexture name="role_3_over" x="1719" y="123" width="160" height="35"/>
+    <SubTexture name="role_3_up" x="1719" y="226" width="150" height="27" frameX="-5" frameY="-4" frameWidth="160" frameHeight="35"/>
+    <SubTexture name="role_4_over" x="1719" y="86" width="160" height="35"/>
+    <SubTexture name="role_4_up" x="1873" y="216" width="150" height="27" frameX="-5" frameY="-4" frameWidth="160" frameHeight="35"/>
+    <SubTexture name="text_1" x="1943" y="751" width="53" height="90"/>
+    <SubTexture name="text_2" x="1950" y="557" width="53" height="90"/>
+    <SubTexture name="text_3" x="1950" y="465" width="53" height="90"/>
+    <SubTexture name="text_4" x="1968" y="373" width="53" height="90"/>
+    <SubTexture name="title_hint" x="1998" y="751" width="47" height="26"/>
+    <SubTexture name="yun" x="1871" y="245" width="128" height="126" frameX="0" frameY="-2" frameWidth="128" frameHeight="128"/>
+</TextureAtlas>

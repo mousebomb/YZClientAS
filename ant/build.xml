@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<project name="远征页游">
+    <property file="ant.properties" basedir="."/>
+
+    <target name="UI1:资源png转atf">
+        <exec executable="${uiEditor.Resource}/transatf.bat" dir="${uiEditor.Resource}"/>
+    </target>
+    <target name="UI2:拷贝最新UI资源">
+        <copy todir="${game.assets}/uiRes">
+            <fileset dir="${uiEditor.Resource}" >
+                <include name="*.atf"/>
+                <include name="*.xml"/>
+            </fileset>
+        </copy>
+        <copy todir="${game.src}/game/view/ui">
+            <fileset dir="${uiEditor.Project}/src/game/view/ui" />
+        </copy>
+        <copy todir="${game.src}/game/view/runtime" overwrite="false">
+            <fileset dir="${uiEditor.Project}/src/game/view/runtime" />
+        </copy>
+    </target>
+
+    <target name="模型：材质图转atf">
+        <exec executable="${mapEditor.assets}/awd/textures/transatf.bat" dir="${mapEditor.assets}/awd/textures"/>
+    </target>
+
+    <target name="地图:拷贝最新模型和地图资源">
+        <copy todir="${game.assets}">
+            <fileset dir="${mapEditor.assets}"/>
+        </copy>
+    </target>
+</project>

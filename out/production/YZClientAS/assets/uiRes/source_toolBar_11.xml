@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:968ff7a702b23ad236689febc186f3bb$ -->
+<TextureAtlas imagePath="source_toolBar_11.png">
+    <SubTexture name="NewVip/buyBtn_2" x="180" y="905" width="177" height="35"/>
+    <SubTexture name="NewVip/buyBtn_1" x="264" y="736" width="177" height="35"/>
+    <SubTexture name="NewVip/buyBtn_0" x="226" y="775" width="177" height="35"/>
+    <SubTexture name="NewVip/card_0" x="144" y="824" width="42" height="42"/>
+    <SubTexture name="NewVip/card_1" x="106" y="888" width="42" height="42"/>
+    <SubTexture name="NewVip/card_2" x="146" y="736" width="42" height="42"/>
+    <SubTexture name="NewVip/dailygift" x="108" y="780" width="42" height="42"/>
+    <SubTexture name="NewVip/dikuangBg" x="2" y="2" width="1112" height="732"/>
+    <SubTexture name="NewVip/firstgift" x="102" y="736" width="42" height="42"/>
+    <SubTexture name="NewVip/fuben_0" x="58" y="736" width="42" height="42"/>
+    <SubTexture name="NewVip/fuben_1" x="100" y="844" width="42" height="42"/>
+    <SubTexture name="NewVip/fuben_2" x="56" y="844" width="42" height="42"/>
+    <SubTexture name="NewVip/fubentitle_0" x="2" y="844" width="52" height="50" frameX="-1" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/fubentitle_1" x="56" y="792" width="50" height="50" frameX="-3" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/fubentitle_2" x="54" y="948" width="50" height="50" frameX="-3" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/gmBtn" x="2" y="1000" width="53" height="22"/>
+    <SubTexture name="NewVip/goldBg" x="1432" y="2" width="314" height="505"/>
+    <SubTexture name="NewVip/goldVip" x="106" y="932" width="72" height="37"/>
+    <SubTexture name="NewVip/masonryBg" x="1116" y="509" width="314" height="505"/>
+    <SubTexture name="NewVip/masonryVip" x="190" y="736" width="72" height="37"/>
+    <SubTexture name="NewVip/meiri" x="54" y="896" width="50" height="50" frameX="-3" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/shouci" x="2" y="792" width="52" height="50" frameX="-1" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/silverBg" x="1116" y="2" width="314" height="505"/>
+    <SubTexture name="NewVip/silverVip" x="152" y="780" width="72" height="37"/>
+    <SubTexture name="NewVip/txtimg" x="57" y="1000" width="10" height="10"/>
+    <SubTexture name="NewVip/xufeiBtn_2" x="188" y="819" width="177" height="35"/>
+    <SubTexture name="NewVip/xufeiBtn_1" x="150" y="868" width="177" height="35"/>
+    <SubTexture name="NewVip/xufeiBtn_0" x="106" y="971" width="177" height="35"/>
+    <SubTexture name="NewVip/xufei_0" x="2" y="948" width="50" height="50" frameX="-3" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/xufei_1" x="2" y="896" width="50" height="50" frameX="-3" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="NewVip/xufei_2" x="2" y="736" width="54" height="54"/>
+    <SubTexture name="NewVip/zhekou_8" x="329" y="856" width="35" height="35"/>
+</TextureAtlas>

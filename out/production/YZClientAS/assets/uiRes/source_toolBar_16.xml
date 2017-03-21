@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c7465ab2dcd97dbae1e6d36ea533b3f8$ -->
+<TextureAtlas imagePath="source_toolBar_16.png">
+    <SubTexture name="wing238X570" x="436" y="2" width="238" height="570"/>
+    <SubTexture name="wing432x570" x="2" y="2" width="432" height="570"/>
+</TextureAtlas>

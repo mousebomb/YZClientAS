@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a4afa4b8f8e436f9dec09bc87c508128$ -->
+<TextureAtlas imagePath="icon_effect.png">
+    <SubTexture name="zhandouli_0" x="728" y="84" width="240" height="80"/>
+    <SubTexture name="zhandouli_1" x="486" y="84" width="240" height="80"/>
+    <SubTexture name="zhandouli_10" x="486" y="166" width="240" height="78" frameX="0" frameY="-2" frameWidth="240" frameHeight="80"/>
+    <SubTexture name="zhandouli_2" x="244" y="84" width="240" height="80"/>
+    <SubTexture name="zhandouli_3" x="2" y="84" width="240" height="80"/>
+    <SubTexture name="zhandouli_4" x="244" y="166" width="240" height="78" frameX="0" frameY="-2" frameWidth="240" frameHeight="80"/>
+    <SubTexture name="zhandouli_5" x="2" y="166" width="240" height="78" frameX="0" frameY="-2" frameWidth="240" frameHeight="80"/>
+    <SubTexture name="zhandouli_6" x="728" y="2" width="240" height="80"/>
+    <SubTexture name="zhandouli_7" x="486" y="2" width="240" height="80"/>
+    <SubTexture name="zhandouli_8" x="244" y="2" width="240" height="80"/>
+    <SubTexture name="zhandouli_9" x="2" y="2" width="240" height="80"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:75d039c36abd3aa98cb6576e59511099$ -->
+<TextureAtlas imagePath="loadingBg.png">
+    <SubTexture name="Loading" x="1952" y="2" width="64" height="64"/>
+    <SubTexture name="Loading_Map_Image_1" x="1804" y="2" width="146" height="104"/>
+    <SubTexture name="Loading_Map_Image_2" x="1952" y="68" width="44" height="66"/>
+    <SubTexture name="Loading_Map_Image_Down" x="2" y="1034" width="256" height="128"/>
+    <SubTexture name="Loading_Map_Image_Up" x="2" y="904" width="256" height="128"/>
+    <SubTexture name="Loading_Map_TitleBG" x="260" y="904" width="264" height="94"/>
+    <SubTexture name="Loading_Type1_BG" x="2" y="2" width="1800" height="900"/>
+    <SubTexture name="loading_progress$bar" x="260" y="1000" width="778" height="54"/>
+    <SubTexture name="loading_progress" x="526" y="904" width="778" height="48" frameX="0" frameY="-1" frameWidth="778" frameHeight="54"/>
+    <SubTexture name="loading_progress_bg" x="2" y="1164" width="856" height="120"/>
+</TextureAtlas>
