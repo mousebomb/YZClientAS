@@ -3,6 +3,7 @@
  */
 package game.frameworks.system.command
 {
+    import game.frameworks.NotifyConst;
     import game.frameworks.system.model.vo.StepType;
     import game.frameworks.system.service.LoginTaskService;
     import game.frameworks.system.service.StatsService;
@@ -27,6 +28,8 @@ package game.frameworks.system.command
             stats.scendStepToScever(StepType.step_9);
             //
             loginTaskService.onCsvLoaded();
+            //
+            dispatchWith(NotifyConst.LOAD_MAIN_UI)
         }
     }
 }

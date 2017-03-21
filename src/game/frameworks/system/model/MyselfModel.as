@@ -5,7 +5,9 @@ package game.frameworks.system.model
 {
 	import flash.geom.Point;
 
-	import game.frameworks.system.helpers.EntityOrderHelper;
+    import game.frameworks.NotifyConst;
+
+    import game.frameworks.system.helpers.EntityOrderHelper;
 	import game.frameworks.system.model.vo.MyselfVO;
 
 	import org.robotlegs.mvcs.Actor;
@@ -43,7 +45,8 @@ package game.frameworks.system.model
 				// 首次初始化
 				vo.inited = true;
 			}
-		}
+            dispatchWith(NotifyConst.SC_CREATE_PLAYER, false);
+        }
 
 		/** SC 创建主角 */
 		public function createPlayer(order:Order):void

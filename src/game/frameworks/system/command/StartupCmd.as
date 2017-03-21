@@ -109,10 +109,9 @@ import game.frameworks.textEffect.view.EffectScreenLamp;
 
 			// command
 			commandMap.mapEvent(NotifyConst.SETTINGS_LOADED, LoadFirstUICmd, null, true);// 直接初始化ui
-//			commandMap.mapEvent(NotifyConst.SETTINGS_LOADED, LoadVersionCmd, null, true);//初始化版本
-//			commandMap.mapEvent(NotifyConst.VERSION_LOADED, LoadFirstUICmd, null, true);//初始化ui
-			commandMap.mapEvent(NotifyConst.FIRSTUI_LOADED, InitConnectionCmd, null, true);
-			commandMap.mapEvent(NotifyConst.SC_CONN_SUCC, LoadCsvCmd, null, true);
+//			commandMap.mapEvent(NotifyConst.FIRSTUI_LOADED, InitConnectionCmd, null, true);
+//			commandMap.mapEvent(NotifyConst.SC_CONN_SUCC, LoadCsvCmd, null, true);
+			commandMap.mapEvent(NotifyConst.FIRSTUI_LOADED, LoadCsvCmd, null, true);
 			commandMap.mapEvent(NotifyConst.CSV_LOADED, CsvLoadedCmd, null, true);
 			commandMap.mapEvent(NotifyConst.LOAD_CREATE_ROLE, LoadCreateRoleUICmd);
 			commandMap.mapEvent(NotifyConst.LOAD_MAIN_UI, LoadUICmd, null, true);

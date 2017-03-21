@@ -240,7 +240,7 @@ package tl.Net.Socket
 
 		private function writeToSocket(byte:ByteArray):void
 		{
-			if (_socket.connected)
+			if (_socket&&_socket.connected)
 			{
 				_socket.writeBytes(byte);
 				_socket.flush();

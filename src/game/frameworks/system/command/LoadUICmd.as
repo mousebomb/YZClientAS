@@ -47,6 +47,8 @@ package game.frameworks.system.command
 			stats.scendStepToScever(StepType.step_16);
 			//标记初始资源完成 告知服务器
 			loginTaskService.onInitResLoaded();
+			//
+			commandMap.execute(FakeEnterGameCmd);
 		}
 	}
 }
